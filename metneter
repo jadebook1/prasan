@@ -1,0 +1,81 @@
+Certainly, here is a list of items or metadata that you may need to request from DAG Metacenter to support your System Dictionary application:
+
+1. **Database Metadata:**
+   - Database schemas, tables, and columns.
+   - Data types, constraints, and indexes.
+   - Relationships between tables.
+   - Stored procedures, functions, and triggers.
+
+2. **Scheduler Metadata:**
+   - Scheduled jobs and their parameters.
+   - Job dependencies and sequences.
+   - Execution logs and histories.
+
+3. **Hadoop (HDFS) Metadata:**
+   - HDFS file system structure.
+   - File and directory attributes.
+   - Permissions and access control.
+
+4. **ETL Lineage Data:**
+   - Extract, Transform, Load (ETL) workflows and pipelines.
+   - Transformation logic and rules.
+   - Source and target data mappings.
+
+5. **Reporting Tools Metadata:**
+   - Reports, dashboards, and visualizations.
+   - Data sources and connections.
+   - Report definitions and layouts.
+
+6. **Data Lineage:**
+   - Data lineage diagrams or visualizations showing how data flows through the system.
+   - Relationships between data sources, transformations, and outputs.
+
+7. **Data Dictionary:**
+   - Glossary of terms and definitions used in your organization.
+   - Business and technical metadata for data elements.
+
+8. **Data Catalog:**
+   - Catalog of available datasets, their descriptions, and data owners.
+   - Metadata tags and classifications.
+
+9. **Data Quality Metadata:**
+   - Data quality assessments and metrics.
+   - Data profiling results.
+   - Data quality rules and validations.
+
+10. **Metadata Changes:**
+    - Notifications or logs of metadata changes or updates.
+    - Version history of metadata.
+
+11. **User Access and Permissions:**
+    - User roles and permissions related to metadata access.
+    - Audit logs of user interactions with metadata.
+
+12. **Custom Metadata Attributes:**
+    - Any custom or additional metadata attributes specific to your organization's needs.
+
+13. **Data Lineage Visualizations:**
+    - Visual representations of data lineage, such as flow diagrams or graphs.
+
+14. **Data Ownership and Stewardship:**
+    - Information about data owners, stewards, and responsible parties for different datasets.
+
+15. **Metadata Documentation:**
+    - Documentation or descriptions of metadata objects and their usage.
+
+16. **Data Security Information:**
+    - Information about data security policies, classifications, and access control.
+
+17. **Metadata APIs:**
+    - Access to APIs for programmatically querying and retrieving metadata.
+
+18. **Metadata Search and Discovery:**
+    - Search capabilities to help users discover and explore metadata.
+
+19. **Metadata Export/Import:**
+    - Tools or features for exporting and importing metadata.
+
+20. **Data Lineage Impact Analysis:**
+    - Tools or features for assessing the impact of changes in metadata on downstream systems.
+
+When requesting these items from DAG Metacenter, be sure to specify the format in which you need the metadata (e.g., JSON, XML, CSV) and any specific details or filters required to extract the relevant information. This list should serve as a comprehensive starting point, and you can tailor it further to your organization's specific needs.
